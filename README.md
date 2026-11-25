@@ -130,7 +130,7 @@ O plano foi aprovado para a realização do teste prático.
 
 ### O Resultado
 
-### O Resultado
+
 
 O teste foi realizado com a música “Tirou-me do Poço”, inspirada no Salmo 40.
 
@@ -153,7 +153,7 @@ O resultado atendeu às necessidades do canal e demonstrou que o prompt personal
 
 ### Como Foi para Você
 
-### Como Foi para Você
+
 
 A experiência mostrou como a inteligência artificial pode ajudar a organizar e otimizar o trabalho de criação de conteúdos para o YouTube.
 
