@@ -48,13 +48,15 @@ Você não precisa instalar nada nem saber programar. Tudo acontece no navegador
 
 ## Minha Entrega
 
+### 1. Problema real escolhido
+
 Criar e organizar conteúdos para um canal do YouTube com músicas gospel inspiradas nos Salmos da Bíblia.
 
 O principal desafio é produzir descrições atrativas e otimizadas para SEO, elaborar títulos relevantes, selecionar palavras-chave e planejar novas publicações que ajudem a atrair espectadores, aumentar o tempo de exibição e fidelizar o público cristão.
 
-
 ### Minha Tarefa Real
 
+### 2. Solução desenvolvida com IA
 
 Foi criado um prompt personalizado utilizando a estrutura CONTEXTO, INSTRUÇÃO, OBJETIVO e FORMATO.
 
@@ -63,9 +65,10 @@ O prompt foi desenvolvido para auxiliar na criação de descrições otimizadas 
 A solução também considera estratégias para despertar o interesse do público, melhorar a retenção dos espectadores e incentivar o retorno ao canal, preservando sempre a mensagem bíblica e a essência de cada canção.
 
 
+
 ### Meus Atalhos
 
-
+Primeiro atalho — Criar e melhorar textos
 
 Modelo adaptado do arquivo `01-prompts/01-escrever-e-melhorar-textos.md`.
 
@@ -75,7 +78,7 @@ O que fica fixo: o público cristão, a linguagem de adoração, o cuidado com a
 
 O que muda: o Salmo, o título da música, a letra e as informações de cada publicação.
 
-
+Segundo atalho — Prompt personalizado
 
 Modelo adaptado do arquivo `02-templates/01-bom-prompt.md`.
 
