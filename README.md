@@ -55,7 +55,9 @@ Criar e organizar conteúdos para um canal do YouTube com músicas gospel inspir
 O principal desafio é produzir descrições atrativas e otimizadas para SEO, elaborar títulos relevantes, selecionar palavras-chave e planejar novas publicações que ajudem a atrair espectadores, aumentar o tempo de exibição e fidelizar o público cristão.
 
 ### Minha Tarefa Real
+Minha tarefa real consiste em utilizar a inteligência artificial para preparar conteúdos de publicação para meu canal no YouTube, que apresenta músicas gospel inspiradas nos Salmos da Bíblia.
 
+A cada nova música, utilizo a IA para elaborar descrições, títulos, palavras-chave, tags e ideias de divulgação, buscando alcançar mais pessoas e manter o público interessado nas publicações.
 ### 2. Solução desenvolvida com IA
 
 Foi criado um prompt personalizado utilizando a estrutura CONTEXTO, INSTRUÇÃO, OBJETIVO e FORMATO.
@@ -68,7 +70,7 @@ A solução também considera estratégias para despertar o interesse do públic
 
 ### Meus Atalhos
 
-Primeiro atalho — Criar e melhorar textos
+**Primeiro atalho — Criar e melhorar textos**
 
 Modelo adaptado do arquivo `01-prompts/01-escrever-e-melhorar-textos.md`.
 
@@ -78,7 +80,7 @@ O que fica fixo: o público cristão, a linguagem de adoração, o cuidado com a
 
 O que muda: o Salmo, o título da música, a letra e as informações de cada publicação.
 
-Segundo atalho — Prompt personalizado
+**Segundo atalho — Prompt personalizado**
 
 Modelo adaptado do arquivo `02-templates/01-bom-prompt.md`.
 
