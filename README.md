@@ -48,40 +48,119 @@ Você não precisa instalar nada nem saber programar. Tudo acontece no navegador
 
 ## Minha Entrega
 
-Na sua cópia, abra este README, clique no lápis (**Edit this file**) e role até aqui. Troque cada frase em itálico pelo que você fez e cole o texto dentro dos blocos já prontos. Para pôr um print, é só colar a imagem com Ctrl+V. No fim, clique em **Commit changes**.
+Criar e organizar conteúdos para um canal do YouTube com músicas gospel inspiradas nos Salmos da Bíblia.
 
-Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal nos textos e nos prints.
+O principal desafio é produzir descrições atrativas e otimizadas para SEO, elaborar títulos relevantes, selecionar palavras-chave e planejar novas publicações que ajudem a atrair espectadores, aumentar o tempo de exibição e fidelizar o público cristão.
+
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+
+Foi criado um prompt personalizado utilizando a estrutura CONTEXTO, INSTRUÇÃO, OBJETIVO e FORMATO.
+
+O prompt foi desenvolvido para auxiliar na criação de descrições otimizadas para o YouTube, sugestões de títulos, palavras-chave, tags e planejamento de novas publicações com base nos Salmos da Bíblia.
+
+A solução também considera estratégias para despertar o interesse do público, melhorar a retenção dos espectadores e incentivar o retorno ao canal, preservando sempre a mensagem bíblica e a essência de cada canção.
+
 
 ### Meus Atalhos
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
 
-```text
-Cole aqui o seu primeiro atalho, já adaptado.
-```
 
-```text
-Cole aqui o seu segundo atalho, já adaptado.
-```
+Modelo adaptado do arquivo `01-prompts/01-escrever-e-melhorar-textos.md`.
+
+Utilizado para criar descrições otimizadas, títulos, palavras-chave e textos de divulgação para vídeos de músicas inspiradas nos Salmos.
+
+O que fica fixo: o público cristão, a linguagem de adoração, o cuidado com a mensagem bíblica e a preocupação com SEO.
+
+O que muda: o Salmo, o título da música, a letra e as informações de cada publicação.
+
+
+
+Modelo adaptado do arquivo `02-templates/01-bom-prompt.md`.
+
+Utilizado para organizar os pedidos à IA por meio dos campos CONTEXTO, INSTRUÇÃO, OBJETIVO e FORMATO.
+
+O que fica fixo: a estrutura do prompt e os objetivos do canal.
+
+O que muda: o conteúdo bíblico, a música e as necessidades de cada nova publicação.
 
 ### Minha Delegação
 
-```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
-```
+**OBJETIVO**
+
+Criar uma descrição otimizada para YouTube e organizar sugestões de SEO e divulgação para uma música gospel inspirada no Salmo 40.
+
+**CONTEXTO**
+
+O trabalho é destinado a um canal do YouTube que publica músicas cristãs inspiradas nos Salmos da Bíblia, especialmente no estilo Worship.
+
+**RECURSOS**
+
+- Letra da música “Tirou-me do Poço”.
+- Conteúdo bíblico do Salmo 40.
+- Prompt personalizado criado para o canal.
+- Estrutura de SEO e planejamento de conteúdo.
+
+**LIMITES**
+
+- Preservar o sentido bíblico e a mensagem da canção.
+- Não inventar informações sobre o Salmo.
+- Utilizar linguagem natural e adequada ao público cristão.
+- Evitar palavras-chave artificiais ou repetitivas.
+- Não alterar a essência da música.
+
+**CRITÉRIOS DE SUCESSO**
+
+Entregar uma descrição envolvente, sugestões de títulos, palavras-chave, tags, ideias para novas publicações e estratégias para melhorar a retenção dos espectadores.
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+O plano apresentado pela IA foi organizar o trabalho em etapas, começando pela análise da música “Tirou-me do Poço”, inspirada no Salmo 40.
+
+Em seguida, a IA identificou o tema central da canção e elaborou uma descrição para YouTube, sugestões de títulos, palavras-chave, tags e ideias para novas publicações.
+
+Também foram propostas estratégias para despertar o interesse dos espectadores e melhorar a retenção dos vídeos.
+
+**O que ajustei antes de utilizar o resultado:**
+
+Conferi se as sugestões respeitavam a mensagem bíblica do Salmo 40, se os títulos representavam corretamente a música e se a linguagem estava adequada ao público cristão.
+
+O plano foi aprovado para a realização do teste prático.
 
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+### O Resultado
+
+O teste foi realizado com a música “Tirou-me do Poço”, inspirada no Salmo 40.
+
+A IA entregou:
+
+- Descrição otimizada para publicação no YouTube.
+- Quatro sugestões de títulos.
+- Palavras-chave principais e secundárias.
+- Tags relacionadas à música e ao conteúdo bíblico.
+- Três ideias de novas publicações.
+- Estratégias para melhorar a retenção dos espectadores.
+
+**Como conferi o resultado:**
+
+Verifiquei se a descrição apresentava corretamente a mensagem do Salmo 40, se os títulos correspondiam ao conteúdo da música e se as palavras-chave estavam relacionadas ao tema.
+
+Também avaliei as sugestões de divulgação e retenção, confirmando que eram adequadas ao público cristão.
+
+O resultado atendeu às necessidades do canal e demonstrou que o prompt personalizado pode facilitar a criação e organização de conteúdos para o YouTube.
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+### Como Foi para Você
+
+A experiência mostrou como a inteligência artificial pode ajudar a organizar e otimizar o trabalho de criação de conteúdos para o YouTube.
+
+Com o desenvolvimento de um prompt personalizado, consegui estruturar melhor meus pedidos e obter descrições, títulos, palavras-chave, tags e ideias para novas publicações.
+
+Aprendi a fornecer contexto, definir objetivos, estabelecer limites e avaliar os resultados antes de utilizá-los.
+
+Essa experiência pode tornar minha rotina de produção mais organizada e eficiente, permitindo dedicar mais atenção à criação de músicas inspiradas nos Salmos e ao crescimento do canal.
+
+A IA funciona como uma ferramenta de apoio, enquanto a revisão e a decisão final continuam sendo minhas.
