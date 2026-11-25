@@ -147,6 +147,9 @@ A IA entregou:
 - Tags relacionadas à música e ao conteúdo bíblico.
 - Três ideias de novas publicações.
 - Estratégias para melhorar a retenção dos espectadores.
+<img width="1920" height="1080" alt="Captura de tela 2026-11-25 115556" src="https://github.com/user-attachments/assets/261b1f4f-e841-49a1-b03f-872b09abb0f2" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-25 115611" src="https://github.com/user-attachments/assets/2a8cd940-330c-4e63-a413-4a66298bc873" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-25 115621" src="https://github.com/user-attachments/assets/6f700ac7-8e67-447f-8fe6-58b75a25c24a" />
 
 **Como conferi o resultado:**
 
@@ -155,6 +158,7 @@ Verifiquei se a descrição apresentava corretamente a mensagem do Salmo 40, se 
 Também avaliei as sugestões de divulgação e retenção, confirmando que eram adequadas ao público cristão.
 
 O resultado atendeu às necessidades do canal e demonstrou que o prompt personalizado pode facilitar a criação e organização de conteúdos para o YouTube.
+<img width="1920" height="1080" alt="Captura de tela 2026-11-25 115644" src="https://github.com/user-attachments/assets/a333194f-2371-4bba-83ff-3df41c711801" />
 
 ### Como Foi para Você
 
